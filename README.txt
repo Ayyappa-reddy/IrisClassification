@@ -29,7 +29,7 @@ Installation:
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/IrisClassification.git
+git clone https://github.com/Ayyappa-reddy/IrisClassification.git
 
 cd IrisClassification
 
