@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load the TensorFlow model and scaler
-model = tf.keras.models.load_model('models/tf_model')
+model = tf.keras.models.load_model('models/tf_model_2_17.h5')
 scaler = joblib.load('models/scaler.pkl')
 iris = load_iris()
 
